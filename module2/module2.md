@@ -1,0 +1,10 @@
+# Module 2: Compute in the Cloud
+
+## INTRODUCTION
+
+## COMPUTE IN THE CLOUD
+
+## AUTO SCALING AND LOAD BALANCING
+
+## Module 2: CONCLUSION
+

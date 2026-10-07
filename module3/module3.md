@@ -12,6 +12,15 @@
     
 # AWS SERVERLESS, CONTAINERS, AND SOLUTIONS OVERVIEW
 - AWS Lambda
+  - Lambda is a serverless compute service that runs code in response to events without the need to provision or manage servers. It automatically manages the underlying infrastructure, scaling resources based on the volume of requests.
+  -   You can optimize performance by configuring the appropriate memory size for your function.
+    - How Lambda works:
+      - Upload code to lambda
+      - Set code to trigger from an event source
+      - Run code when triggered
+      - Pay only for compute time used
+    - Lambda use cases:
+  - Lambda (demonstration):
 - Containers and Orchestration on AWS
 - Additional Compute Services
 
